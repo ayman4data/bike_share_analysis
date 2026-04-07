@@ -50,7 +50,7 @@ LEFT JOIN cost_table b ON a.yr = b.yr;
 
 ![Bike Share Dashboard(2021)](images/2021_interactive_dashboard.png)
 
-![Casual Riders Dashboard](images/casaul_riders.png)
+![Casual Riders Dashboard](images/casual_riders.png)
 
 ## 💡 Recommendation
 Based on the 64% increase in demand following a previous 25% price hike, I recommended a conservative 10-15% price increase for the next year. This strategy maximizes revenue while staying within the threshold of market tolerance.
